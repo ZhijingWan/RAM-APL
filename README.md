@@ -1,9 +1,6 @@
-# RAM-APL
-This repository is the official implementation of Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection, accepted at ICML 2025.
-
-# [Project Title]
-**Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**  
-Zhijing Wan, Zhixiang Wang, Zheng Wang, Xin Xu, Shin'ichi Satoh. ICML 2025
+> **Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**  
+> Zhijing Wan, Zhixiang Wang, Zheng Wang, Xin Xu, Shin'ichi Satoh.
+> ICML 2025
 
 ## 📌 Overview
 This repository will contain the official PyTorch implementation of **RAM-APL**, a multi-foundation-model approach for superior fine-grained one-shot subset selection.
