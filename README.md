@@ -10,4 +10,4 @@ This repository will contain the official PyTorch implementation of **RAM-APL**,
 The code is currently being cleaned and prepared for public release. It will be made available soon.
 
 ## 📬 Contact
-If you have questions about the paper, feel free to reach out to the corresponding author: [wanzjwhu@whu.edu.cn]
+If you have questions about the paper, feel free to reach out to the email: [wanzjwhu@whu.edu.cn]
