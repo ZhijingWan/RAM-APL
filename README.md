@@ -135,7 +135,7 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u main.py \
 
 This codebase is for academic research purposes only.
 
-## 📬 Bibtex
+## :stars: Bibtex
 If you make use of our work, please consider to cite:
 
 ```bibtex
