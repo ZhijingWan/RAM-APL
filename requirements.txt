@@ -1,0 +1,15 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+timm==0.4.12
+transformers==4.45.2
+scikit-learn==1.5.2
+scipy==1.10.1
+numpy==1.26.4
+matplotlib==3.7.1
+pandas==2.0.1
+tqdm==4.66.6
+pyyaml==6.0.2
+omegaconf==2.3.0
+opencv-python==4.9.0.80
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
