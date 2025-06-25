@@ -1,7 +1,7 @@
 > **Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**  
 > Zhijing Wan, Zhixiang Wang, Zheng Wang, Xin Xu, Shin'ichi Satoh.
 > 
-> ICML 2025
+> ICML 2025 Oral (Top 1%)
 >
 > [arxiv](https://arxiv.org/pdf/2506.14473)
 
