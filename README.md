@@ -1,7 +1,9 @@
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > **Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**  
 > Zhijing Wan, Zhixiang Wang, Zheng Wang, Xin Xu, Shin'ichi Satoh.
 > 
-> ICML 2025 Oral (Top 1%)
+> **ICML 2025 Oral (Top 1%)**
 >
 > [arxiv](https://arxiv.org/pdf/2506.14473)
 
@@ -130,10 +132,6 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u main.py \
 * If you need help preparing your datasets or pretrained weights, feel free to open an issue (if public).
 
 ---
-
-## 📜 License
-
-This codebase is for academic research purposes only.
 
 ## :stars: Bibtex
 If you find our work is helpful for your research, please consider to cite:
